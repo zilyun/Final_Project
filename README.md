@@ -156,7 +156,7 @@ MBTI 서비스의 목표는 다음과 같습니다.<br>
 
 ### 채팅방 - 긴급공지
 
-<img src="https://github.com/zilyun/Final_Project/assets/40315922/071cc8c4-2fb1-484b-b17b-002f4429a309" width="300" height="600"/>  <img src="https://github.com/zilyun/Final_Project/assets/40315922/95905233-2e24-4ed0-b1a0-3f06f1b771be" width="300" height="600"/> <img src="https://github.com/zilyun/Final_Project/assets/40315922/0564f937-2ab9-4697-953c-9e5a52d8efd2" width="300" height="600"/> 
+<img src="https://github.com/zilyun/Final_Project/assets/40315922/071cc8c4-2fb1-484b-b17b-002f4429a309" width="350" height="600"/>  <img src="https://github.com/zilyun/Final_Project/assets/40315922/95905233-2e24-4ed0-b1a0-3f06f1b771be" width="350" height="600"/> <img src="https://github.com/zilyun/Final_Project/assets/40315922/0564f937-2ab9-4697-953c-9e5a52d8efd2" width="350" height="600"/> 
 
 ### 채팅 UI
 
